@@ -1,13 +1,13 @@
 variable "aws_access_key" {
   description = "AWS access key"
   type        = string
-  default     = "AKIARQARJQ6TS7F4AVFN"
+  default     = "AKIASD5RRDLXELDNX6XY"
 }
 
 variable "aws_secret_key" {
   description = "AWS secret key"
   type        = string
-  default     = "uUZvOc8uSHe0eFw8x3+CPvQlYV08X50PoReiYgwD"
+  default     = "8CQoO8ZRfAnVFs7iUYz35aHzpm5rzIN3/Igy7pw1"
 }
 
 
